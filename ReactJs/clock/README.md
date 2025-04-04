@@ -1,20 +1,19 @@
-# 🕒 Timeline App
+# 🕰️ Digital Clock App
 
-An interactive timeline component built using React and `react-chrono` to showcase events such as education and projects.
+A digital clock built using React that updates every second using the component lifecycle.
 
 ## 🚀 Live Demo
-🔗 [View Live](https://ccbptimeline.ccbp.tech/)
+🔗 [View Live](https://clock20p4.ccbp.tech/)
 
 ## 🛠️ Tech Stack
 - React.js
-- react-chrono
+- JavaScript
 - CSS3
 
 ## 🔍 Features
-- Horizontal scrolling timeline
-- Timeline items classified as Course or Project
-- Custom icons for different types
-- Fully responsive and styled to match Figma specs
+- Displays the current time in HH:MM:SS format
+- Auto updates every second
+- Demonstrates React lifecycle methods and real-time UI updates
 
 ## 📂 Folder Structure
-src/ ├── components/ │ └── TimelineCard/ ├── App.js └── index.js
+src/ ├── components/ │ └── Clock/ ├── App.js └── index.js
