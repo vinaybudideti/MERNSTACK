@@ -1,9 +1,21 @@
-# On Demand Session
+# 📇 Contacts App
 
-- Third-party packages
-  - uuid
-- Adding New Item to the List in State
-- Updating an Item of the List in State
+A simple contact management system using React and Context API for global state handling.
 
+## 🚀 Live Demo
+🔗 [View Live](https://contextapp20p3.ccbp.tech/)
 
-#live demo link ((https://contextapp20p3.ccbp.tech/))
+## 🛠️ Tech Stack
+- React.js
+- React Context API
+- UUID
+- CSS3
+
+## 🔍 Features
+- View and manage a list of contacts
+- Add new contacts with unique ID generation
+- Edit existing contact details
+- Uses global state via React Context for seamless data flow
+
+## 📂 Folder Structure
+src/ ├── context/ ├── components/ │ ├── ContactList/ │ └── AddContact/ ├── App.js └── index.js
