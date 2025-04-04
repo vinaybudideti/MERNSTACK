@@ -7,7 +7,7 @@
 
 Live demo link (https://ecommerce20p5.ccbp.tech/)
 
-use creedentials:
+use credentials:
 
 Username: henry
 password: henry_the_developer
