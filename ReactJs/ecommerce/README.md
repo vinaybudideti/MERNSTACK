@@ -1,11 +1,26 @@
-# React Context Part | 4
+# 🛒 E-commerce Cart App
 
-- Empty Cart View
-- Displaying Cart Items Count
-- Deployment
+A clean and functional e-commerce UI built with React featuring a shopping cart and product listing.
 
+## 🚀 Live Demo
+🔗 [View Live](https://ecommerce20p5.ccbp.tech/)
 
-Live demo link (https://ecommerce20p5.ccbp.tech/)
+## 🛠️ Tech Stack
+- React.js
+- React Context API
+- React Router DOM
+- CSS3
+
+## 🔍 Features
+- Product list with image, title, price
+- Add to cart & remove from cart
+- Dynamic cart item count in navbar
+- Cart page with total price calculation
+- Empty cart message handling
+- Mobile-friendly design
+
+## 📂 Folder Structure
+src/ ├── context/ ├── components/ │ ├── Products/ │ └── Cart/ ├── App.js └── index.js
 
 use credentials:
 
