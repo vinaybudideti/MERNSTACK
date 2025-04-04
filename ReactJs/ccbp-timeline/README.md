@@ -1,5 +1,7 @@
 In this project, let's build a **CCBP Timeline** by applying the concepts we have learned till now.
 
+Live demo [ccbptimeline.ccbp.tech](https://ccbptimeline.ccbp.tech)
+
 ### Refer to the image below:
 
 <br/>
@@ -104,46 +106,4 @@ Use these files to complete the implementation:
 - `src/components/ProjectTimelineCard/index.css`
 </details>
 
-### Important Note
 
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-- To build this project, take a look at the <a href='https://learning.ccbp.in/frontend-development/course?c_id=2f4192f7-7495-49ca-a6ce-6b74005e25f1&s_id=a152928a-64cc-4697-936c-db2e3c4f2716&t_id=416f0cab-8425-413b-9157-c7b4d4ae4467' target="_blank">React Chrono</a> reading material
-
-**The following instructions are required for the tests to pass**
-
-- `AiFillClockCircle`, `AiFillCalendar` icons from `react-icons` should be used for **clock** and **calender** icons in card respectively
-
-</details>
-
-### Resources
-
-<details>
-<summary>Colors</summary>
-
-<br/>
-
-<div style="background-color: #171f46; width: 150px; padding: 10px; color: white">Hex: #171f46</div>
-<div style="background-color: #1e293b; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
-<div style="background-color: #ffffff; width: 150px; padding: 10px; color: black">Hex: #ffffff</div>
-<div style="background-color: #0967d2; width: 150px; padding: 10px; color: white">Hex: #0967d2</div>
-<div style="background-color: #2b237c; width: 150px; padding: 10px; color: white">Hex: #2b237c</div>
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Roboto
-
-</details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
